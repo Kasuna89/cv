@@ -1,3 +1,28 @@
-body {
-    background-color: blue;
+/***********TAGS************/
+body{
+    margin: 0;
 }
+
+h1 {
+    margin-top: 0;
+}
+
+/***********DIVS************/
+
+div.top-container {
+    background-color: #E4f9f5;
+
+}
+
+div.middle-container {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+div.bottom-container {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
